@@ -1,9 +1,9 @@
-5965
+5981
 101D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\jpegxr.js133614658089031846 0
 104D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\css-tree\cjs\syntax\node\IdSelector.cjs133614658067494945 0
 114D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\csso\node_modules\css-tree\lib\tokenizer\names.js133614658077933062 0
 105D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\css-shapes.js133614658079010996 0
-58D:\Blogging website\Portfolio-exp\Portfolio-website\assets133613720589676005 1
+58D:\Blogging website\Portfolio-exp\Portfolio-website\assets133614800359155101 1
 86D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\cosmiconfig\README.md133614658064879900 0
 84D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\svgo\lib\types.d.ts133614658062962609 0
 64D:\Blogging website\Portfolio-exp\Portfolio-website\package.json133614664741309405 0
@@ -11,7 +11,7 @@
 121D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\csso\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133614658080267117 0
 109D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\es6-generators.js133614658082549494 0
 101D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\utility-types\dist\mapped-types.d.ts133614658058998857 0
-56D:\Blogging website\Portfolio-exp\Portfolio-website\dist133614796688173909 1
+56D:\Blogging website\Portfolio-exp\Portfolio-website\dist133614801345403515 1
 96D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\regions\BB.js133614658067764636 0
 105D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\nav-timing.js133614658092364539 0
 91D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\css-tree\cjs\syntax\pseudo133614658068971823 1
@@ -19,7 +19,7 @@
 90D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\semver\functions\clean.js133614658050180199 0
 65D:\Blogging website\Portfolio-exp\Portfolio-website\tsconfig.json133614665100617132 0
 94D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\update-browserslist-db\cli.js133614658049955611 0
-62D:\Blogging website\Portfolio-exp\Portfolio-website\index.html133614796683508608 0
+62D:\Blogging website\Portfolio-exp\Portfolio-website\index.html133614801339888838 0
 93D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\svgo\plugins\inlineStyles.js133614658067655811 0
 78D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\color-convert133614658053365901 1
 101D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\css-tree\cjs\syntax\pseudo\index.cjs133614658069001914 0
@@ -138,6 +138,7 @@
 102D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\csso\node_modules\css-tree\cjs\parser133614658072599156 1
 69D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@swc133614658227675321 1
 127D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages133614658053233407 1
+74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.5a1477f8.js133614801345174187 0
 118D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\background-position-x-y.js133614658066880485 0
 90D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\domutils\lib\helpers.d.ts133614658059164827 0
 91D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano133614658053015058 1
@@ -534,7 +535,7 @@
 95D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\csso\lib\replace\Percentage.js133614658070495609 0
 113D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\css-select\node_modules\dom-serializer\README.md133614658056644896 0
 93D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@swc\helpers\esm\_extends.js133614658074269190 0
-81D:\Blogging website\Portfolio-exp\Portfolio-website\dist\assets\pdf\Tailor-Cv.pdf133614796686486546 0
+81D:\Blogging website\Portfolio-exp\Portfolio-website\dist\assets\pdf\Tailor-Cv.pdf133614801344911044 0
 105D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\utility-types\dist\aliases-and-guards.js133614658049254589 0
 130D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\csso\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133614658074460649 0
 88D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\is-extglob\package.json133614658048112628 0
@@ -556,6 +557,7 @@
 100D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\node-addon-api\package-support.json133614658058873109 0
 128D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\csso\node_modules\css-tree\lib\definition-syntax\SyntaxError.js133614658079579285 0
 87D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\domutils\lib\legacy.js133614658052084156 0
+78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.5a1477f8.js.map133614801345204202 0
 88D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\weak-lru-cache\index.js133614658050429097 0
 94D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\domutils\lib\helpers.d.ts.map133614658056371171 0
 94D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\regenerator-runtime\README.md133614658051898341 0
@@ -574,6 +576,7 @@
 96D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\regions\GH.js133614658085193400 0
 81D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\.bin\js-yaml.ps1133614658107565591 0
 106D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\css-tree\cjs\syntax\node\TypeSelector.cjs133614658073282908 0
+74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.e8a151ec.js133614801344911044 0
 96D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\regions\IT.js133614658088821300 0
 132D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages133614658107532084 0
 96D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\weak-lru-cache\rollup.config.js133614658052186899 0
@@ -821,6 +824,7 @@
 90D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\node-addon-api\napi-inl.h133614658055931675 0
 96D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\cosmiconfig\dist\loaders.js.map133614658062891062 0
 95D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\type-fest\source\value-of.d.ts133614658064567030 0
+70D:\Blogging website\Portfolio-exp\Portfolio-website\assets\ts\main7.js133614796077883251 0
 100D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\webvr.js133614658101386807 0
 112D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\csso\node_modules\css-tree\lib\syntax\create.js133614658075075601 0
 90D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\tslib\CopyrightNotice.txt133614658056933319 0
@@ -975,6 +979,7 @@
 82D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\svgo\package.json133614658063424646 0
 89D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\node-addon-api\README.md133614658059755088 0
 96D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\regions\MS.js133614658091910830 0
+78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.b87f6165.js.map133614801345204202 0
 129D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\Atrule.js133614658055702475 0
 107D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\posthtml\node_modules\posthtml-parser\dist133614658054116157 1
 86D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@swc\counter\index.js133614658048112628 0
@@ -1280,7 +1285,7 @@
 96D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\lightningcss\node\index.js.flow133614658053015058 0
 82D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\semver\preload.js133614658062911074 0
 78D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\semver\ranges133614658065520312 1
-76D:\Blogging website\Portfolio-exp\Portfolio-website\dist\work-1.f6436426.jpg133614796687332311 0
+76D:\Blogging website\Portfolio-exp\Portfolio-website\dist\work-1.f6436426.jpg133614801345084203 0
 82D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\lmdb\package.json133614658074642825 0
 120D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\transformer-posthtml\src\PostHTMLTransformer.js133614658052196872 0
 96D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\css-tree\lib\syntax\node\Raw.js133614658079310030 0
@@ -1759,6 +1764,7 @@
 132D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\compile.d.ts.map133614658058261206 0
 110D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\node-gyp-build-optional-packages\package.json133614658052543475 0
 104D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\css-tree\cjs\syntax\node\Identifier.cjs133614658066942046 0
+74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.fea8a17b.js133614801345403515 0
 107D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\node-gyp-build-optional-packages\README.md133614658053355899 0
 96D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\regions\CX.js133614658080342423 0
 86D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\lmdb\rollup.config.js133614658074450733 0
@@ -1801,7 +1807,6 @@
 93D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\node-addon-api\noexcept.gypi133614658052414366 0
 94D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\htmlnano\docs\babel.config.js133614658062540368 0
 107D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@swc\helpers\_\_apply_decorated_descriptor133614658076889649 1
-70D:\Blogging website\Portfolio-exp\Portfolio-website\assets\js\main6.ts133614752913205212 0
 119D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\runtime-browser-hmr\lib\loaders\hmr-runtime.js133614658049796043 0
 89D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\node-addon-api\nothing.c133614658047845777 0
 85D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\node-addon-api\tools133614658060024437 1
@@ -2026,6 +2031,7 @@
 97D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\lmdb\node_modules\node-addon-api133614658059504453 1
 109D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\lmdb\node_modules\node-addon-api\common.gypi133614658049855630 0
 91D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\htmlnano\docs\netlify.toml133614658072253663 0
+70D:\Blogging website\Portfolio-exp\Portfolio-website\assets\ts\main3.ts133614771456047784 0
 114D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@swc\helpers\cjs\_is_native_reflect_construct.cjs133614658067494945 0
 110D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\csso\node_modules\mdn-data\css\selectors.json133614658060026970 0
 108D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\lmdb\node_modules\node-addon-api\LICENSE.md133614658059270321 0
@@ -2390,7 +2396,7 @@
 147D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\index.d.ts133614658062785963 0
 101D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\htmlnano\lib\modules\mergeStyles.cjs133614658057389951 0
 81D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@swc\helpers\esm133614658076794207 1
-78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-css.8c6a4d43.svg133614796688163894 0
+78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-css.8c6a4d43.svg133614801345373491 0
 115D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\htmlnano\lib\modules\minifyConditionalComments.cjs133614658057669101 0
 115D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\htmlnano\lib\modules\minifyConditionalComments.mjs133614658070988555 0
 91D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\utils\lib\index.js133614658065841773 0
@@ -2974,7 +2980,6 @@
 118D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Number.cjs133614658070432894 0
 101D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@swc\helpers\_\_type_of\package.json133614658083355266 0
 120D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Operator.cjs133614658070615818 0
-70D:\Blogging website\Portfolio-exp\Portfolio-website\assets\js\main5.ts133614680726137593 0
 105D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\css-what\lib\commonjs\stringify.d.ts.map133614658057636245 0
 110D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\text-decoration.js133614658097558909 0
 123D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Parentheses.cjs133614658070840413 0
@@ -3044,7 +3049,6 @@
 111D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@swc\helpers\_\_class_private_field_loose_base133614658078869029 1
 95D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\utils\src\ansi-html.js133614658053464943 0
 85D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\csso\lib\compress.js133614658068112966 0
-81D:\Blogging website\Portfolio-exp\Portfolio-website\assets\js\scrollreveal.min.js133613720589676005 0
 85D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\csso\lib\restructure133614658071396965 1
 83D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\csso\lib\syntax.js133614658070998575 0
 106D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\node-resolver-core\lib\Wrapper.js133614658053165344 0
@@ -3317,6 +3321,7 @@
 113D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\api133614658057022499 1
 108D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\packager-wasm\lib\wasm-sourcemap.js133614658050471920 0
 101D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\css-tree\cjs\syntax\function\var.cjs133614658073676292 0
+70D:\Blogging website\Portfolio-exp\Portfolio-website\assets\ts\main2.ts133614747427196628 0
 105D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\css-tree\cjs\syntax\config\generator.cjs133614658065818447 0
 100D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\css-tree\cjs\syntax\atrule\nest.cjs133614658071042768 0
 100D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\css-tree\cjs\syntax\atrule\page.cjs133614658071498681 0
@@ -3536,7 +3541,6 @@
 116D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\css-select\node_modules\dom-serializer\package.json133614658054290665 0
 111D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\css-select\node_modules\dom-serializer\lib\esm133614658057467260 1
 124D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\css-select\node_modules\dom-serializer\lib\esm\package.json133614658053635540 0
-70D:\Blogging website\Portfolio-exp\Portfolio-website\assets\js\main3.ts133614771456047784 0
 125D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\css-select\node_modules\dom-serializer\lib\foreignNames.d.ts133614658057255608 0
 129D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\css-select\node_modules\dom-serializer\lib\foreignNames.d.ts.map133614658055402797 0
 94D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-swc\LICENSE133614658048343393 0
@@ -3680,7 +3684,7 @@
 78D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\cache133614658057899595 1
 102D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\cosmiconfig\dist\getPropertyByPath.js133614658054949581 0
 99D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\colr.js133614658072590499 0
-67D:\Blogging website\Portfolio-exp\Portfolio-website\dist\assets\pdf133614796686486546 1
+67D:\Blogging website\Portfolio-exp\Portfolio-website\dist\assets\pdf133614801344911044 1
 106D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\cosmiconfig\dist\getPropertyByPath.js.map133614658062073553 0
 96D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\cosmiconfig\dist\index.d.ts.map133614658062262524 0
 106D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@swc\helpers\esm\_wrap_async_generator.js133614658076522986 0
@@ -3948,7 +3952,7 @@
 74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.084a304a.js133614796687176123 0
 96D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\regions\PA.js133614658093332495 0
 96D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\regions\PF.js133614658093765132 0
-90D:\Blogging website\Portfolio-exp\Portfolio-website\dist\Portfolio-website.3464ddca.js.map133614796688027302 0
+90D:\Blogging website\Portfolio-exp\Portfolio-website\dist\Portfolio-website.3464ddca.js.map133614801345403515 0
 96D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\regions\PG.js133614658093795132 0
 96D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\regions\PH.js133614658093820434 0
 152D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133614658072380384 0
@@ -4038,7 +4042,7 @@
 114D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133614658073832848 0
 118D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@swc\helpers\_\_class_private_method_set\package.json133614658079263722 0
 118D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\css-backgroundblendmode.js133614658073973020 0
-81D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-github.5cfe05ce.svg133614796688163894 0
+81D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-github.5cfe05ce.svg133614801345373491 0
 108D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\css-boxshadow.js133614658074087474 0
 110D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\css-caret-color.js133614658074175801 0
 105D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\css-canvas.js133614658074122775 0
@@ -4387,6 +4391,7 @@
 101D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\webhid.js133614658101133265 0
 111D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\webkit-user-drag.js133614658101173231 0
 83D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@swc\core\bindings133614658056877200 1
+78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.ceea93d3.js.map133614801345154183 0
 99D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\webm.js133614658101193233 0
 101D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\webnfc.js133614658101222172 0
 105D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\caniuse-lite\data\features\websockets.js133614658101296644 0
@@ -4781,7 +4786,7 @@
 75D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\fs133614658059118658 1
 78D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\graph133614658060221081 1
 79D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\logger133614658052225508 1
-79D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.2005cfe8.css.map133614796687863303 0
+79D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.2005cfe8.css.map133614801345403515 0
 86D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\markdown-ansi133614658052166829 1
 150D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\subselects.js133614658056743104 0
 91D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\node-resolver-core133614658053737435 1
@@ -4898,7 +4903,7 @@
 105D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\graph\test\AdjacencyList.test.js133614658054270720 0
 128D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0\index.js133614658057813004 0
 126D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js133614658050931547 0
-80D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-figma.9c3bfeaf.svg133614796687488565 0
+80D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-figma.9c3bfeaf.svg133614801344911044 0
 138D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\transformer-react-refresh-wrap\lib\ReactRefreshWrapTransformer.js133614658052467804 0
 92D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\transformer-raw\lib133614658049082459 1
 101D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\transformer-raw\package.json133614658051369058 0
@@ -4940,7 +4945,6 @@
 107D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\transformer-image\lib\loadSharp.js133614658051379045 0
 93D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\transformer-html\lib133614658053002503 1
 97D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\transformer-html\LICENSE133614658048313254 0
-70D:\Blogging website\Portfolio-exp\Portfolio-website\assets\js\main4.js133614678198875783 0
 102D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\transformer-html\node_modules133614658015539026 1
 102D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\transformer-html\package.json133614658054719460 0
 93D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\transformer-html\src133614658053932084 1
@@ -4989,6 +4993,7 @@
 139D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-arm64.node133614658062755909 0
 146D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm-gnueabihf.node133614658066020712 0
 142D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-gnu.node133614658067522875 0
+69D:\Blogging website\Portfolio-exp\Portfolio-website\assets\ts\main.ts133614746885068498 0
 140D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133614658069425428 0
 141D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-musl.node133614658070334227 0
 101D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\source-map\dist\SourceMap.js133614658057434734 0
@@ -5389,7 +5394,7 @@
 137D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\config\walker.js133614658074132764 0
 136D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\index.js133614658069036061 0
 135D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\page.js133614658072026160 0
-76D:\Blogging website\Portfolio-exp\Portfolio-website\dist\work-5.93717cb0.jpg133614796687332311 0
+76D:\Blogging website\Portfolio-exp\Portfolio-website\dist\work-5.93717cb0.jpg133614801345124199 0
 139D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\supports.js133614658073301841 0
 129D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\parser\index.js133614658068931833 0
 128D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\error.js133614658065733214 0
@@ -5470,7 +5475,7 @@
 135D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeMetadata.js133614658066659187 0
 151D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js133614658066784837 0
 141D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeOffCanvasPaths.js133614658066969077 0
-79D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-sass.fd5107b9.svg133614796687019435 0
+79D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-sass.fd5107b9.svg133614801344911044 0
 139D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeRasterImages.js133614658067512896 0
 132D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeTitle.js133614658067859149 0
 135D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUnusedNS.js133614658068089279 0
@@ -5485,7 +5490,7 @@
 123D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\parser.js133614658063466690 0
 94D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@babel\highlight\node_modules133614658015549046 1
 121D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\path.js133614658063925229 0
-67D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.html133614796687019435 0
+67D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.html133614801344911044 0
 101D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\.bin\download-msgpackr-prebuilds.cmd133614658107575620 0
 128D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\stringifier.js133614658069057591 0
 122D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\style.js133614658069185362 0
@@ -5550,7 +5555,7 @@
 127D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\convertor133614658068333266 1
 135D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\definition-syntax133614658073983035 1
 124D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\parser133614658072927055 1
-80D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-react.302ab0b0.svg133614796687019435 0
+80D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-react.302ab0b0.svg133614801344911044 0
 124D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax133614658070001048 1
 127D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\tokenizer133614658073711473 1
 123D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\utils133614658071122791 1
@@ -5657,7 +5662,7 @@
 99D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\namer-default\package.json133614658051409028 0
 90D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\markdown-ansi\lib133614658049009348 1
 90D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\markdown-ansi\src133614658050150174 1
-85D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-javascript.b57bb0e1.svg133614796687644828 0
+85D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-javascript.b57bb0e1.svg133614801345074225 0
 108D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133614658051537092 0
 107D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\markdown-ansi\src\markdown-ansi.js133614658050393820 0
 87D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@parcel\logger\LICENSE133614658048363410 0
@@ -5886,7 +5891,7 @@
 113D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@babel\highlight\node_modules\color-name\LICENSE133614658050961677 0
 115D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@babel\highlight\node_modules\color-name\README.md133614658050064052 0
 113D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@babel\highlight\node_modules\color-name\test.js133614658052643179 0
-77D:\Blogging website\Portfolio-exp\Portfolio-website\dist\favicon.f2b6d519.png133614796687019435 0
+77D:\Blogging website\Portfolio-exp\Portfolio-website\dist\favicon.f2b6d519.png133614801344911044 0
 121D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@babel\highlight\node_modules\color-convert\CHANGELOG.md133614658049171310 0
 123D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@babel\highlight\node_modules\color-convert\conversions.js133614658050314249 0
 116D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@babel\highlight\node_modules\color-convert\LICENSE133614658052031890 0
@@ -5899,7 +5904,7 @@
 116D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@babel\highlight\node_modules\ansi-styles\readme.md133614658050994341 0
 94D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@babel\highlight\lib\index.js133614658050113543 0
 103D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@babel\helper-validator-identifier\lib133614658054140333 1
-76D:\Blogging website\Portfolio-exp\Portfolio-website\dist\work-3.46c9b406.jpg133614796687019435 0
+76D:\Blogging website\Portfolio-exp\Portfolio-website\dist\work-3.46c9b406.jpg133614801344911044 0
 107D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@babel\helper-validator-identifier\LICENSE133614658048112628 0
 109D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@babel\helper-validator-identifier\README.md133614658048931405 0
 107D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\@babel\helper-validator-identifier\scripts133614658055578527 1
@@ -5928,16 +5933,26 @@
 78D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\.bin\svgo.cmd133614658107597954 0
 92D:\Blogging website\Portfolio-exp\Portfolio-website\node_modules\.bin\update-browserslist-db133614658107597954 0
 74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.134a5235.js133614769557937229 0
+74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.39cf6a15.js133614796686642834 0
+74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.564879d5.js133614796687997294 0
+78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.564879d5.js.map133614796688037292 0
 74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.586e0f7a.js133614676671392743 0
+74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.5adc72c8.js133614796687488565 0
 78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.a914d638.js.map133614751817926107 0
+78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.a9a06490.js.map133614796687176123 0
+74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.aa6b5ebc.js133614796687997294 0
+78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.aa6b5ebc.js.map133614796688027302 0
+74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.e3ce5ba4.js133614796687488565 0
+78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.e3ce5ba4.js.map133614796687488565 0
 74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.f7f6abad.js133614745422840411 0
 78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.fc2f7771.js.map133614746885508914 0
 62D:\Blogging website\Portfolio-exp\Portfolio-website\assets\css133613720589403991 1
-61D:\Blogging website\Portfolio-exp\Portfolio-website\assets\js133614796054222645 1
+61D:\Blogging website\Portfolio-exp\Portfolio-website\assets\ts133614796054222645 1
+70D:\Blogging website\Portfolio-exp\Portfolio-website\assets\ts\main4.js133614678198875783 0
+70D:\Blogging website\Portfolio-exp\Portfolio-website\assets\ts\main5.ts133614680726137593 0
+70D:\Blogging website\Portfolio-exp\Portfolio-website\assets\ts\main6.ts133614752913205212 0
+81D:\Blogging website\Portfolio-exp\Portfolio-website\assets\ts\scrollreveal.min.js133613720589676005 0
 76D:\Blogging website\Portfolio-exp\Portfolio-website\assets\pdf\Tailor-Cv.pdf133613720589676005 0
-69D:\Blogging website\Portfolio-exp\Portfolio-website\assets\js\main.ts133614746885068498 0
-70D:\Blogging website\Portfolio-exp\Portfolio-website\assets\js\main2.ts133614747427196628 0
-70D:\Blogging website\Portfolio-exp\Portfolio-website\assets\js\main7.js133614796077883251 0
 79D:\Blogging website\Portfolio-exp\Portfolio-website\assets\img\home-perfil2.png133613720589623733 0
 75D:\Blogging website\Portfolio-exp\Portfolio-website\assets\img\info-git.svg133613720589633335 0
 76D:\Blogging website\Portfolio-exp\Portfolio-website\assets\img\info-html.svg133613720589643329 0
@@ -5947,20 +5962,21 @@
 73D:\Blogging website\Portfolio-exp\Portfolio-website\assets\img\work-3.jpg133613720589665665 0
 73D:\Blogging website\Portfolio-exp\Portfolio-website\assets\img\work-5.jpg133613720589676005 0
 73D:\Blogging website\Portfolio-exp\Portfolio-website\assets\css\styles.css133614762856534032 0
-76D:\Blogging website\Portfolio-exp\Portfolio-website\dist\work-2.1810d897.jpg133614796686642834 0
-74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.39cf6a15.js133614796686642834 0
-78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.a9a06490.js.map133614796687176123 0
-79D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-html.1381e670.svg133614796687488565 0
-78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-git.65713503.svg133614796687488565 0
-74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.e3ce5ba4.js133614796687488565 0
-74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.5adc72c8.js133614796687488565 0
-78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.e3ce5ba4.js.map133614796687488565 0
-87D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-tailwind-css.574354f0.svg133614796687644828 0
-75D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.2005cfe8.css133614796687852471 0
-76D:\Blogging website\Portfolio-exp\Portfolio-website\dist\work-4.6ee770ff.jpg133614796687863303 0
-82D:\Blogging website\Portfolio-exp\Portfolio-website\dist\home-perfil2.01f89c18.png133614796687863303 0
-74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.aa6b5ebc.js133614796687997294 0
-74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.564879d5.js133614796687997294 0
-86D:\Blogging website\Portfolio-exp\Portfolio-website\dist\Portfolio-website.3464ddca.js133614796687997294 0
-78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.aa6b5ebc.js.map133614796688027302 0
-78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.564879d5.js.map133614796688037292 0
+79D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-html.1381e670.svg133614801344907639 0
+78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-git.65713503.svg133614801344911044 0
+74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.ea2e0567.js133614801344911044 0
+78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.274ae24c.js.map133614801345154183 0
+76D:\Blogging website\Portfolio-exp\Portfolio-website\dist\work-2.1810d897.jpg133614801344911044 0
+87D:\Blogging website\Portfolio-exp\Portfolio-website\dist\info-tailwind-css.574354f0.svg133614801345084203 0
+78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.e8a151ec.js.map133614801345084203 0
+78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.ea2e0567.js.map133614801345084203 0
+74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.ceea93d3.js133614801345104204 0
+74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.274ae24c.js133614801345124199 0
+74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.b87f6165.js133614801345174187 0
+75D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.2005cfe8.css133614801345393494 0
+76D:\Blogging website\Portfolio-exp\Portfolio-website\dist\work-4.6ee770ff.jpg133614801345403515 0
+74D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.727d9814.js133614801345403515 0
+86D:\Blogging website\Portfolio-exp\Portfolio-website\dist\Portfolio-website.3464ddca.js133614801345403515 0
+78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.727d9814.js.map133614801345403515 0
+82D:\Blogging website\Portfolio-exp\Portfolio-website\dist\home-perfil2.01f89c18.png133614801345403515 0
+78D:\Blogging website\Portfolio-exp\Portfolio-website\dist\index.fea8a17b.js.map133614801345403515 0
